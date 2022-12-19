@@ -2,10 +2,10 @@
 Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfolio as Data Analyst, please check it out!
 
 # Spreadsheet/ Excel Skill sets:
-*Data Cleaning;
-*Query Table;
-*Pivot Table;
-*Vlookup;
+* Data Cleaning;
+* Query Table;
+* Pivot Table;
+* Vlookup;
 *Hlookup;
 *IF Statement;
 *Descriptive Statistics;
