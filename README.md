@@ -13,7 +13,7 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 * Gathering Insights;
 * A/B Testing;
 
-# Deck :
+# Deck :;
 
 #SQL Skill sets:
 * Standard Query Syntax;
