@@ -26,12 +26,5 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 * SQL Subqueries;
 
 # Code Example:
-"https://console.cloud.google.com/bigquery?project=revou-sql-363711&supportedpurview=project&ws=!1m4!1m3!8m2!1s489260454238!2s41ad331c1914469e936b9b7aacd625ba" as Dundi
-2. 
+[1. Bigquery](https://console.cloud.google.com/bigquery?project=revou-sql-363711&supportedpurview=project&ws=!1m4!1m3!8m2!1s489260454238!2s41ad331c1914469e936b9b7aacd625ba)
 
-outerHTML
-: 
-"<a href=\"https://drive.google.com/file/d/1pL3b73PEav3U2CWDvTMt3FXDERvllViS/view?usp=sharing\" rel=\"nofollow\">Data Cleaning and Processing in Spreadsheet</a>"
-outerText
-: 
-"Data Cleaning and Processing in Spreadsheet"
