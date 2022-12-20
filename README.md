@@ -49,8 +49,8 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 * Churn Analyst
 
 # Deck Python:
-[Churn Analyst Deck](https://docs.google.com/presentation/d/1Uexu7SWJ7XOGcElcr40GyqJwrF8JXul4sWpB5mEmu3A/edit?usp=sharing)
-[Clustering Analyst Deck](https://docs.google.com/presentation/d/16gU7xDTgqxPp2JczMLwiWbVVL4Y4rcZZgYZ7yn9sy5Y/edit?usp=sharing)
+1. [Churn Analyst Deck](https://docs.google.com/presentation/d/1Uexu7SWJ7XOGcElcr40GyqJwrF8JXul4sWpB5mEmu3A/edit?usp=sharing)
+2. [Clustering Analyst Deck](https://docs.google.com/presentation/d/16gU7xDTgqxPp2JczMLwiWbVVL4Y4rcZZgYZ7yn9sy5Y/edit?usp=sharing)
 
 # Data Visualization
 * Connect and combine/ join datasets
