@@ -28,7 +28,7 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 # Deck SQL:
 [Link Deck](https://docs.google.com/presentation/d/11bfNNRJmBHCA94PqyCjbiRBlxWHTrALZLomsaOzG5oE/edit?usp=sharing)
 
-# Code Example:
+# Query Example:
 1. [Create a query to get the number of unique users, number of orders, and total sale price and month. Time frame from Jan 2019 until Aug 2022](https://console.cloud.google.com/bigquery?sq=489260454238:80204e2ec36a49e2a37253d93c3eeca4)
 2. [Create a query to get frequencies, average order value and total number of unique users where status is complete grouped by month. Time frame from Jan 2019 until Aug 2022](https://console.cloud.google.com/bigquery?sq=489260454238:4767f0d9dbee4fc78724978652f13e6e)
 3. [Find the user id, email, first and last name of users whose status is refunded on Aug 22](https://console.cloud.google.com/bigquery?sq=489260454238:b6360ed41db64efab1c7e646991095b9)
@@ -52,7 +52,7 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 1. [Churn Analyst Deck](https://docs.google.com/presentation/d/1Uexu7SWJ7XOGcElcr40GyqJwrF8JXul4sWpB5mEmu3A/edit?usp=sharing)
 2. [Clustering Analyst Deck](https://docs.google.com/presentation/d/16gU7xDTgqxPp2JczMLwiWbVVL4Y4rcZZgYZ7yn9sy5Y/edit?usp=sharing)
 
-# Code Example:
+# Python Code Example:
 1. [Churn Analyst](https://colab.research.google.com/drive/1g-oQshzpPI4cEjPmRFAFgIqCqE2SIWTT?usp=sharing)
 2. [Cluster Analyst](https://colab.research.google.com/drive/1rIM8sir0tdnoLXmCs_hdIsaA3pAzHF6p?usp=sharing)
 
