@@ -52,9 +52,16 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 1. [Churn Analyst Deck](https://docs.google.com/presentation/d/1Uexu7SWJ7XOGcElcr40GyqJwrF8JXul4sWpB5mEmu3A/edit?usp=sharing)
 2. [Clustering Analyst Deck](https://docs.google.com/presentation/d/16gU7xDTgqxPp2JczMLwiWbVVL4Y4rcZZgYZ7yn9sy5Y/edit?usp=sharing)
 
+# Code Example:
+1. [Churn Analyst](https://colab.research.google.com/drive/1g-oQshzpPI4cEjPmRFAFgIqCqE2SIWTT?usp=sharing)
+2. [Cluster Analyst](https://colab.research.google.com/drive/1rIM8sir0tdnoLXmCs_hdIsaA3pAzHF6p?usp=sharing)
+
 # Data Visualization
 * Connect and combine/ join datasets
 * Data formatting
 * Level of Detail (LOD)
 * Calculated field
 * Interactive Dashboard
+
+# Dashboard Example:
+1. [AirBnB Singapore](https://public.tableau.com/app/profile/muhammad.hafidz.rahman/viz/W10W11_MuhammadHafidzRahman_Intermediate/Dashboard1)
