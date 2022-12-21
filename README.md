@@ -26,7 +26,7 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 * SQL Subqueries;
 
 # Deck SQL:
-[Link Deck](https://docs.google.com/presentation/d/11bfNNRJmBHCA94PqyCjbiRBlxWHTrALZLomsaOzG5oE/edit?usp=sharing)
+[The Look Ecommerce Deck](https://docs.google.com/presentation/d/11bfNNRJmBHCA94PqyCjbiRBlxWHTrALZLomsaOzG5oE/edit?usp=sharing)
 
 # Query Example:
 1. [Create a query to get the number of unique users, number of orders, and total sale price and month. Time frame from Jan 2019 until Aug 2022](https://console.cloud.google.com/bigquery?sq=489260454238:80204e2ec36a49e2a37253d93c3eeca4)
