@@ -14,6 +14,7 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 * A/B Testing;
 
 # Deck:
+1. [Data Analyts Intern](https://docs.google.com/presentation/d/1xXe-NRzu0FCHwp_ZoOucvJ-MEfWUKwU4TnLz15JAal8/edit?usp=sharing)
 
 # SQL Skill sets:
 * Standard Query Syntax;
