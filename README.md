@@ -47,7 +47,8 @@ Hi! My name is Muhammad Hafidz Rahman, just called me Happis. Here is my Portfol
 * Descriptive statistic
 * Analyzing using visualization
 * Cluster Analysis
-* Churn Analyst
+* Churn Analysis
+* Regression analysis
 
 # Deck Python:
 1. [Churn Analyst Deck](https://docs.google.com/presentation/d/1Uexu7SWJ7XOGcElcr40GyqJwrF8JXul4sWpB5mEmu3A/edit?usp=sharing)
